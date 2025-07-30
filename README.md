@@ -11,6 +11,7 @@ A React Native application demonstrating authentication functionality using Reac
 - **Password Visibility Toggle**: Eye icon to show/hide password
 - **Responsive UI**: Clean and intuitive user interface
 - **Navigation**: Seamless navigation between screens
+- **Splash Screen**:All screen shots are in Screenshot folder
 
 ## Screenshots
 
@@ -71,6 +72,7 @@ npm run ios
 
 ```
 src/
+├── screenShots/              # Screen shots of application ()
 ├── components/          # Reusable UI components
 ├── containers/          # Screen components
 │   ├── Login/          # Login screen
